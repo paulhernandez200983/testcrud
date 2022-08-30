@@ -25,7 +25,7 @@ function App() {
   
     ASCAP BASED CRUD by Paul Hernández 
     
-<img src="public/logo512.png" class="mt-5" alt=""/>
+<img src="public/LOGO.png" class="mt-5" alt=""/>
        
  
     
